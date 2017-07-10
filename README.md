@@ -1,5 +1,5 @@
-# streaming-playground
-A Playground to explore Kafka and FLink
+# streaming-examples
+A collection of examples to explore Kafka and Flink
 ### Prerequisites
 * For a dev environment install Kafka as described here: https://kafka.apache.org/quickstart
 * Start all components from within the kafka folder and create a topic
