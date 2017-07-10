@@ -1,5 +1,5 @@
 # streaming-examples
-A collection of examples to explore Kafka and Flink
+A collection of examples to explore Apache Kafka and Flink
 ### Prerequisites
 * For a dev environment install Kafka as described here: https://kafka.apache.org/quickstart
 * Start all components from within the kafka folder and create a topic
